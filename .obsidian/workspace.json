@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "298cefd9ac40daba",
+    "type": "split",
+    "children": [
+      {
+        "id": "044697f69d2dd6bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba135d1241606f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ch19_软件专利申请及权利保护/第十九章_软件专利申请及权利保护.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90f92816c5fd83b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "db0d5b8536713016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabf79aa4a4ccd5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8305ef656cd43225",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3df9c28c41065db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cf83f9f6c8e5391",
+    "type": "split",
+    "children": [
+      {
+        "id": "34287b8fd6c9c518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb1a2a037192cb8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ch19_软件专利申请及权利保护/第十九章_软件专利申请及权利保护.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f7d8a4239ab06ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ch19_软件专利申请及权利保护/第十九章_软件专利申请及权利保护.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c44e57f35df7e9de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a6bc041be336c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ch19_软件专利申请及权利保护/第十九章_软件专利申请及权利保护.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dba135d1241606f8",
+  "lastOpenFiles": [
+    "book_pdf_version/第十九章_软件专利申请及权利保护.pdf",
+    "ch18_后端架构选型及应用场景/第十八章_后端架构选型及应用场景.md",
+    "book_pdf_version/第十八章_后端架构选型及应用场景.pdf",
+    "ch18_后端架构选型、离线及实时计算/第十八章_后端架构选型、离线及实时计算.md",
+    "ch19_软件专利申请及权利保护/第十九章_软件专利申请及权利保护.md",
+    "book_pdf_version/第十八章_后端架构选型、离线及实时计算.pdf",
+    "ch17_模型压缩、加速及移动端部署/第十七章_模型压缩、加速及移动端部署.md",
+    "book_pdf_version/第十七章_模型压缩、加速及移动端部署.pdf",
+    "ch17_模型压缩、加速及移动端部署/17.8.1 NCNN部署.md",
+    "ch16_自然语言处理(NLP)/第十六章_NLP.md",
+    "book_pdf_version/第十六章_NLP.pdf",
+    "ch15_GPU和框架选型/第十五章_异构运算、GPU及框架选型.md",
+    "book_pdf_version/第十五章_异构运算、GPU及框架选型.pdf",
+    "ch14_超参数调整/第十四章_超参数调整.md",
+    "book_pdf_version/第十四章_超参数调整.pdf",
+    "ch13_优化算法/第十三章_优化算法.md",
+    "book_pdf_version/第十三章_优化算法.pdf",
+    "ch12_网络搭建及训练/第十二章_网络搭建及训练.md",
+    "book_pdf_version/第十二章_网络搭建及训练.pdf",
+    "ch11_迁移学习/第十一章_迁移学习.md",
+    "ch10_强化学习/第十章_强化学习.md",
+    "book_pdf_version/第十章_强化学习.pdf",
+    "ch09_图像分割/第九章_图像分割.md",
+    "book_pdf_version/第九章_图像分割.pdf",
+    "ch08_目标检测/第八章_目标检测.md",
+    "ch07_生成对抗网络(GAN)/第七章_生成对抗网络.md",
+    "ch06_循环神经网络(RNN)/第六章_循环神经网络(RNN).md",
+    "ch05_卷积神经网络(CNN)/第五章_卷积神经网络(CNN).md",
+    "ch04_经典网络/第四章_经典网络.md",
+    "ch03_深度学习基础/第三章_深度学习基础.md",
+    "ch02_机器学习基础/第二章_机器学习基础.md",
+    "ch01_数学基础/第一章_数学基础.md",
+    "English version/README.md",
+    "ch16_自然语言处理(NLP)/readme.md",
+    "ch08_目标检测/readme.md",
+    "ch06_循环神经网络(RNN)/readme.md",
+    "qun.png"
+  ]
+}
